@@ -1,0 +1,25 @@
+{
+  "name": "daftar-situs-slot-bonus-new-member-100-di-depan-to-x7-joss",
+  "main": "./tempat-slot-gacor/daftar-situs-slot-bonus-new-member-100-di-depan-to-x7-joss",
+  "version": "0.3.0",
+  "description": "Daftar situs slot bonus new member 100 dengan TO X7 yang bisa di claim sepuasnya bagi seluruh pemain slot gacor.",
+  "keywords": [
+    "judi slot banyak bonus",
+    "judi slot bonus new member",
+    "slot banyak bonus",
+    "slot bonus 100%",
+    "slot bonus 100",
+    "slot gacor bonus new member",
+    "slot online bonus",
+    "bonus slot"
+  ],
+  "activationCommands": {
+    "atom-workspace": "daftar-situs-slot-bonus-new-member-100-di-depan-to-x7-joss:toggle"
+  },
+  "repository": "https://github.com/tempat-slot-gacor/daftar-situs-slot-bonus-new-member-100-di-depan-to-x7-joss.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
